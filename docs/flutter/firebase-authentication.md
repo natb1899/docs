@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Videos
 
-- ![YouTube - Firebase Authentication - Riverpod](https://www.youtube.com/watch?v=wpW7mM3AEXI)
+- [YouTube - Firebase Authentication - Riverpod](https://www.youtube.com/watch?v=wpW7mM3AEXI)
 
 ```js title="Used packages"
 riverpod: ^2.4.3
