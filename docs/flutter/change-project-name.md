@@ -5,7 +5,7 @@ sidebar_position: 2
 # Change the project name
 
 ```js title="Used packages"
-rename: ^3.0.0;
+rename: ^3.0.0
 ```
 
 ## Commands
