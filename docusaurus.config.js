@@ -52,7 +52,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: ({ versionDocsDirPath, docPath }) =>
-            `https://github.com/${organizationName}/${projectName}/${versionDocsDirPath}/${docPath}`,
+            `https://github.com/${organizationName}/${projectName}/tree/main/`,
         },
         blog: {
           showReadingTime: true,
