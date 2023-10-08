@@ -161,3 +161,16 @@ sequenceDiagram
 ```
 
 See the [Mermaid syntax documentation](https://mermaid.js.org/intro/) for more information on the Mermaid syntax.
+
+## Tables
+
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+- :-- means the column is left aligned.
+- : means the column is right aligned.
+- :-: means the column is center aligned.
